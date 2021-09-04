@@ -1,4 +1,4 @@
-import discord, sqlite3
+import discord
 from discord.ext import commands
 
 token = 'NzU5MDU3MzcwOTY0ODE5OTk4.X239Qw.LYafFdCkzbJwwovVQ4P3XNJUyIk'
