@@ -7,7 +7,7 @@ client = commands.Bot(command_prefix=prefix)
 
 @client.event
 async def on_ready():
-    print('\033[94m'+'BOT CONECTADO'+'\033[0;0m')
+    print('\033[94m'+'BOT ONLINE'+'\033[0;0m')
 
 @client.command()
 async def test(ctx):
