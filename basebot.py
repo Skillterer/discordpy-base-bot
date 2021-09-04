@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-token = 'NzU5MDU3MzcwOTY0ODE5OTk4.X239Qw.LYafFdCkzbJwwovVQ4P3XNJUyIk'
+token = 'INSERT TOKEN'
 prefix = "d!"
 client = commands.Bot(command_prefix=prefix)
 
